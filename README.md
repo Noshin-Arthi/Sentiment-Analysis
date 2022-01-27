@@ -1,4 +1,4 @@
-# Sentiment-Analysis(Machine Learning Basic)
+# Sentiment-Analysis(Machine Learning)
 NLP: Twitter Sentiment Analysis.
 My colab File link:
 https://colab.research.google.com/drive/1UkJs7xzvmIOFKyHk0q2_UpSOODoqG_wj?usp=sharing
